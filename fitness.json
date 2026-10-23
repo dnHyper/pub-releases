@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "0.1.10"
+    "version": "0.1.11"
   },
   "app": {
-    "version": "0.0.89",
-    "build": 89
+    "version": "0.0.90",
+    "build": 90
   },
-  "updated_at": "2026-10-22T22:15:30Z"
+  "updated_at": "2026-10-23T18:00:43Z"
 }
